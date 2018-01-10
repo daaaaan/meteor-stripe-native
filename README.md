@@ -1,4 +1,4 @@
-## Stripe (native) [![Build Status](https://travis-ci.org/benjick/meteor-stripe-native.svg?branch=master)](https://travis-ci.org/benjick/meteor-stripe-native)
+## Stripe (native) [![Build Status](https://travis-ci.org/KaitaniLabs/meteor-stripe-native.svg?branch=master)](https://travis-ci.org/KaitaniLabs/meteor-stripe-native)
 
 Implementing the Stripe API natively in Meteor, no need for wrapAsync. Built in ability to handle webhooks from Stripe however you want to.
 
