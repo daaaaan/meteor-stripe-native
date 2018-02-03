@@ -4,7 +4,7 @@ Npm.depends({
 });
 
 Package.describe({
-  name: 'allerion:stripe-native',
+  name: 'dancaws:stripe-native',
   version: '0.1.4',
   summary: 'Implements Stripe API as a Meteor package sans Node. Built-in webhooks management.',
   git: 'https://github.com/KaitaniLabs/meteor-stripe-native.git',
